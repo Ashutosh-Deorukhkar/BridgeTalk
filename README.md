@@ -45,8 +45,6 @@ The system supports:
 
 ---
 
----
-
 # Application Screenshots 🖥️
 
 ## Login Interface 🔐
