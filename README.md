@@ -45,6 +45,40 @@ The system supports:
 
 ---
 
+---
+
+# Application Screenshots 🖥️
+
+## Login Interface 🔐
+
+<p align="center">
+  <img src="BridgeTalk Login.png" width="800"/>
+</p>
+
+The login interface allows users to securely access the BridgeTalk platform and begin their personalized communication therapy sessions.
+
+---
+
+## Dashboard 📊
+
+<p align="center">
+  <img src="BridgeTalk Dashboard Image.png" width="800"/>
+</p>
+
+The dashboard provides caregivers and clinicians with insights into communication progress, emotional patterns, and behavioral trends derived from conversational interactions.
+
+---
+
+## Chat Interface 💬
+
+<p align="center">
+  <img src="BridgeTalk Chat Window.png" width="800"/>
+</p>
+
+The chat interface enables individuals with ASD to interact with the AI companion in a structured and supportive conversational environment designed to improve communication skills.
+
+---
+
 # Key Features ⭐
 
 ## AI Therapeutic Conversation 🤖
